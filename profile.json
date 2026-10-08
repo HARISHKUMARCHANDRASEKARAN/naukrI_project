@@ -1,0 +1,58 @@
+{
+    "name": "Harish Kumar",
+
+    "target_roles": [
+        "AI Engineer",
+        "GenAI Engineer",
+        "Machine Learning Engineer",
+        "Applied AI Engineer"
+    ],
+
+    "experience_years": 3,
+
+    "current_role": "AI Engineer",
+
+    "education": "BCA",
+
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "LLMs",
+        "RAG",
+        "LangChain",
+        "LangGraph",
+        "AI Agents",
+        "Transformers",
+        "NLP",
+        "CNN",
+        "LSTM",
+        "Scikit-learn",
+        "NumPy",
+        "Pandas",
+        "PySpark",
+        "SQL",
+        "FastAPI",
+        "REST APIs",
+        "AWS",
+        "ChromaDB",
+        "Embeddings",
+        "Vector Databases"
+    ],
+
+    "application_preferences": {
+        "current_location": "Chennai",
+        "preferred_location": ["Chennai", "Bangalore", "Hyderabad", "Pune", "Mumbai"],
+        "work_mode": ["Remote", "Hybrid","work from office"],
+        "notice_period": "2 weeks",
+        "total_experience": "3 years",
+        "current_ctc": "₹6,00,000",
+        "expected_ctc": "₹8,00,000",
+        "employment_authorization": "Yes",
+        "willing_to_travel": "yes",
+        "willing_to_relocate": "yes"
+    },
+
+    "date_of_birth": "28/07/2003"
+}
